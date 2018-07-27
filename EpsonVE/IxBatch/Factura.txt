@@ -1,0 +1,14 @@
+@OpenFiscalReceipt|ARMAS REINALDO.|5981854
+@PrintLineItem|HABITACION|0001|00000001.00|.09|M
+@PrintLineItem|Lavanderia|0001|00000000.50|.09|M
+@ReturnRecharge|Pagamento|2.00|T|0.1
+@Subtotal
+@CloseFiscalReceipt|A|
+@PrintFiscaltext|CARACAS, DISTRITO CAPITAL.|S
+@PrintFiscaltext|VENEZUELA.|S
+@PrintFiscaltext|F/LLEGADA:21/04/2007|S
+@PrintFiscaltext|SUMATORIA ABONOS BS|S
+@PrintFiscaltext|A PAGAR BS|S
+@CloseFiscalReceipt
+*** END ***
+
